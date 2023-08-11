@@ -1,1 +1,13 @@
 /* your code */
+td{
+	text-align : center; 
+	padding: 7px;
+}
+th{
+	background : #C8E4B5;
+	font-family: "Trebuchet MS", Arial, Verdana;
+	padding: 10px
+}
+tr:nth-child(odd){
+	background: #FFD9B9;
+}
